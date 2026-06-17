@@ -1,4 +1,4 @@
-# Playable Factory Case Study
+# Playable Case Study
 
 ## Setup
 npm install
